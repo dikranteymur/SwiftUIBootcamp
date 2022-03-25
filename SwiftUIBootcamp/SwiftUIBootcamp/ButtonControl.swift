@@ -17,6 +17,7 @@ struct ButtonControl: View {
                 name = "Dikran Teymur"
             }
             Text(name)
+            Text("asfdasdf")
         }
     }
 }
