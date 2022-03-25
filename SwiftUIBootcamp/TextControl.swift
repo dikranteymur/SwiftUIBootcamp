@@ -12,6 +12,8 @@ struct TextControl: View {
         VStack {
             Text("Text Control")
                 .font(.largeTitle)
+            Text("Text islemine devam edildi")
+                .font(.title)
         }
     }
 }
