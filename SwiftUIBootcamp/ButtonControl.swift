@@ -17,9 +17,10 @@ struct ButtonControl: View {
                 name = "Dikran Teymur"
             }
             Text(name)
-            Text("asfdasdf")
-            Text("yeni eklendi")
-            Text("dev branch'i eklendi")
+//            Text("asfdasdf")
+//            Text("yeni eklendi")
+//            Text("dev branch'i eklendi")
+            Label("Label Deneme", systemImage: "house.fill")
         }
     }
 }
