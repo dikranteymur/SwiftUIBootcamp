@@ -15,7 +15,9 @@ struct ContentView: View {
 //            .underline()
 //            .underline(true, color: .green)
 //            .foregroundColor(.red)
-            .kerning(10)
+//            .kerning(10)
+            .font(.system(size: 24, weight: .light, design: .monospaced))
+            .foregroundColor(.red)
         
     }
 }
