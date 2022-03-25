@@ -13,6 +13,7 @@
 		1DC327E427EE0DB200D1D9E5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DC327E327EE0DB200D1D9E5 /* Preview Assets.xcassets */; };
 		1DC327EB27EE0E5500D1D9E5 /* ButtonControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DC327EA27EE0E5500D1D9E5 /* ButtonControl.swift */; };
 		1DC327EF27EE15CC00D1D9E5 /* TextControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DC327EE27EE15CC00D1D9E5 /* TextControl.swift */; };
+		1DC327F127EE73CF00D1D9E5 /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DC327F027EE73CF00D1D9E5 /* ShapesBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		1DC327E327EE0DB200D1D9E5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1DC327EA27EE0E5500D1D9E5 /* ButtonControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonControl.swift; sourceTree = "<group>"; };
 		1DC327EE27EE15CC00D1D9E5 /* TextControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextControl.swift; sourceTree = "<group>"; };
+		1DC327F027EE73CF00D1D9E5 /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				1DC327DE27EE0DB000D1D9E5 /* ContentView.swift */,
 				1DC327EA27EE0E5500D1D9E5 /* ButtonControl.swift */,
 				1DC327EE27EE15CC00D1D9E5 /* TextControl.swift */,
+				1DC327F027EE73CF00D1D9E5 /* ShapesBootcamp.swift */,
 				1DC327E027EE0DB200D1D9E5 /* Assets.xcassets */,
 				1DC327E227EE0DB200D1D9E5 /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1DC327F127EE73CF00D1D9E5 /* ShapesBootcamp.swift in Sources */,
 				1DC327DF27EE0DB000D1D9E5 /* ContentView.swift in Sources */,
 				1DC327EB27EE0E5500D1D9E5 /* ButtonControl.swift in Sources */,
 				1DC327EF27EE15CC00D1D9E5 /* TextControl.swift in Sources */,
