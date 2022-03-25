@@ -14,12 +14,6 @@ struct TextControl: View {
                 .font(.largeTitle)
             Text("Text islemine devam edildi")
                 .font(.title)
-<<<<<<< HEAD
-                .bold()
-=======
-                .foregroundColor(.green)
-            Text("text main'den sonra degisti")
->>>>>>> text
         }
     }
 }
