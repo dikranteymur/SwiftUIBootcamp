@@ -14,6 +14,7 @@ struct TextControl: View {
                 .font(.largeTitle)
             Text("Text islemine devam edildi")
                 .font(.title)
+                .foregroundColor(.green)
         }
     }
 }
