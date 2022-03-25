@@ -15,6 +15,7 @@ struct TextControl: View {
             Text("Text islemine devam edildi")
                 .font(.title)
                 .foregroundColor(.green)
+            Text("text main'den sonra degisti")
         }
     }
 }
