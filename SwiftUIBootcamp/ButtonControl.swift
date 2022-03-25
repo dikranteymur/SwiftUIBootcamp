@@ -18,6 +18,7 @@ struct ButtonControl: View {
             }
             Text(name)
             Text("asfdasdf")
+            Text("yeni eklendi")
         }
     }
 }
